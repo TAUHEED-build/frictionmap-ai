@@ -1,0 +1,6 @@
+{
+  "name": "FrictionMap AI",
+  "description": "Find friction. Fix what matters. Website usability and content auditing for businesses and freelancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
